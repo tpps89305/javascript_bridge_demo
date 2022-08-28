@@ -1,16 +1,17 @@
 # javascript_bridge_demo
 
-A new Flutter project.
+The Flutter demo which implement Javascript bridge.
 
-## Getting Started
+## Available Platform
 
-This project is a starting point for a Flutter application.
+- Android
+- iOS
 
-A few resources to get you started if this is your first Flutter project:
+## Technical Specifications
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter version 3.0.2
+- Dart version 2.17.3
+- VS Code version 1.70.2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependency Package
+- webview_flutter: ^3.0.4
