@@ -9,8 +9,8 @@ The Flutter demo which implement Javascript bridge.
 
 ## Technical Specifications
 
-- Flutter version 3.0.2
-- Dart version 2.17.3
+- Flutter version 2.10.3
+- Dart version 2.16.1
 - VS Code version 1.70.2
 
 ## Dependency Package
